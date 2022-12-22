@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bivekbasu
-- 🌱 I’m currently taking course on data science.
+- 🌱 I’m currently learning machine learning.
 
 <!---
 bivekbasu/bivekbasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
